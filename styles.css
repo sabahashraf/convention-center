@@ -4,3 +4,42 @@ body{
 .bg-grey{
     background-color: #E5E5E5;
 }
+.bg-pink{
+    background-color: #e9c4db;
+    
+
+}
+.icon{
+    width:20px;
+    height:20px;
+    margin-right:3px;
+}
+.list{
+    border:0;
+    color:#848199;
+}
+.listW{
+    border: none;
+    color:white;
+    
+
+     background-color:inherit;
+   
+  
+}
+.t-black{
+    color: #231D4F;
+}
+.blended{
+   
+    background-color:#3F87F5;
+}
+.position{
+    top:0;
+   right:0;
+    
+}
+.transform{
+   transform: translateY(-40px);
+}
+  
