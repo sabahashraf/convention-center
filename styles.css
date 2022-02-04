@@ -42,4 +42,8 @@ body{
 .transform{
    transform: translateY(-40px);
 }
+
+.bg-footer{
+    background-color: #0B0D17;
+}
   
