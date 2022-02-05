@@ -40,7 +40,7 @@ body{
     
 }
 .transform{
-   transform: translateY(-40px);
+   transform: translateY(-10%);
 }
 
 .bg-footer{
