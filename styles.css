@@ -46,4 +46,9 @@ body{
 .bg-footer{
     background-color: #0B0D17;
 }
-  
+.toast:not(.show) {
+  display:block;
+}
+  .border-left{
+      border-left: 4px solid #3F87F5;
+  }
